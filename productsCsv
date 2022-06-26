@@ -1,8 +1,8 @@
-categorie,pret,varianteDisponibile,nou,bestseller
-1,247,5,1,0
-1,187,5,1,0
-1,170,5,0,0
-1,255,5,0,1
-1,1000,5,0,0
-1,247,5,1,0
-1,187,5,1,0
+categorie,pret,varianteDisponibile,nou,bestseller,outcome
+1,247,5,1,0,1
+1,187,5,1,0,1
+1,170,5,0,0,1
+1,255,5,0,1,1
+1,1000,5,0,0,1
+1,247,5,1,0,1
+1,187,5,1,0,1
