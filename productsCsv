@@ -3,7 +3,7 @@ id,culoare,categorie,pret,varianteDisponibile,nou,bestseller,Outcome
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,170,5,0,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,255,5,0,1,1
-627c35c67b0b2f91f1202226,Beige Ivore,1,1000,5,0,0,1
+627cf2b79ba71c434ef8619d,Beige Ivore,1,1000,5,0,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,247,5,1,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,2,247,6,1,0,0
@@ -31,7 +31,7 @@ id,culoare,categorie,pret,varianteDisponibile,nou,bestseller,Outcome
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,170,5,0,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,255,5,0,1,1
-627c35c67b0b2f91f1202226,Beige Ivore,1,1000,5,0,0,1
+627cf2b79ba71c434ef8619d,Beige Ivore,1,1000,5,0,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,247,5,1,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,2,247,6,1,0,0
@@ -62,7 +62,7 @@ id,culoare,categorie,pret,varianteDisponibile,nou,bestseller,Outcome
 627c35c67b0b2f91f1202226,Beige Ivore,1,1000,5,0,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,247,5,1,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,1
-627c35c67b0b2f91f1202226,Beige Ivore,2,247,6,1,0,0
+627cf2b79ba71c434ef8619d,Beige Ivore,2,247,6,1,0,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,170,5,0,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,1255,5,0,1,0
@@ -83,12 +83,12 @@ id,culoare,categorie,pret,varianteDisponibile,nou,bestseller,Outcome
 627c35c67b0b2f91f1202226,Beige Ivore,17,1000,5,0,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,247,5,1,0,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,0
-627c35c67b0b2f91f1202226,Beige Ivore,2,247,5,1,0,0
+627cf2b79ba71c434ef8619d,Beige Ivore,2,247,5,1,0,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,170,5,0,0,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,255,5,0,1,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,247,5,1,0,1
-627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,0
+627cf2b79ba71c434ef8619d,Beige Ivore,1,187,5,1,0,0
 627c35c67b0b2f91f1202226,Beige Ivore,2,247,6,1,0,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,170,5,0,0,1
@@ -99,13 +99,13 @@ id,culoare,categorie,pret,varianteDisponibile,nou,bestseller,Outcome
 627c35c67b0b2f91f1202226,Beige Ivore,1,247,1,1,0,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,170,5,0,0,1
-627c35c67b0b2f91f1202226,Beige Ivore,1,190,1,0,1,0
+627cf2b79ba71c434ef8619d,Beige Ivore,1,190,1,0,1,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,1000,5,0,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,247,5,1,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,0
 627c35c67b0b2f91f1202226,Beige Ivore,3,340,5,1,0,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,0
-627c35c67b0b2f91f1202226,Beige Ivore,1,170,5,0,0,1
+627cf2b79ba71c434ef8619d,Beige Ivore,1,170,5,0,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,255,5,0,1,0
 627c35c67b0b2f91f1202226,Beige Ivore,1,1000,5,0,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,247,5,1,0,1
