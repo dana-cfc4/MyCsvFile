@@ -19,12 +19,12 @@ id,culoare,categorie,pret,varianteDisponibile,nou,bestseller,Outcome
 627cf5ba9ba71c434ef8619f,2C2 Pale Almond,1,255,5,0,1,0
 627cf5ba9ba71c434ef8619f,3C2 Pebble,1,255,5,0,1,0
 627cf5ba9ba71c434ef8619f,4C2 Auburn,1,255,5,0,1,0
+627cf5c89ba71c434ef861a0,3 Warm Olive,1,276,5,0,0,0
+627cf5c89ba71c434ef861a0,2.5 Neutral,1,276,5,0,0,0
+627cf5c89ba71c434ef861a0,4 Neutral,1,276,5,0,0,0
+627cf5c89ba71c434ef861a0,3 Cool Rosy,1,276,5,0,0,0
+627cf5c89ba71c434ef861a0,1.5 Warm,1,276,5,0,0,0
 
-627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,0
-627c35c67b0b2f91f1202226,Beige Ivore,3,340,5,1,0,0
-627c35c67b0b2f91f1202226,Beige Ivore,1,187,5,1,0,1
-627c35c67b0b2f91f1202226,Beige Ivore,1,170,5,0,0,1
-627c35c67b0b2f91f1202226,Beige Ivore,1,255,5,0,1,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,1000,5,0,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,1,247,5,1,0,1
 627c35c67b0b2f91f1202226,Beige Ivore,3,187,5,1,0,1
